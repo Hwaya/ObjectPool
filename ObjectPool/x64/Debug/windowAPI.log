@@ -1,0 +1,49 @@
+﻿  stdafx.cpp
+  bullets.cpp
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\bullets.cpp(39): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\bullets.cpp(44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\bullets.cpp(59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\bullets.cpp(140): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\bullets.cpp(157): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\bullets.cpp(226): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\bullets.cpp(239): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  enemy.cpp
+  enemyManager.cpp
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\enemymanager.cpp(77): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\enemymanager.cpp(76): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\enemymanager.cpp(94): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\enemymanager.cpp(93): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameNode.cpp
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\gamenode.cpp(89): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\gamenode.cpp(90): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  image.cpp
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\image.cpp(101): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\image.cpp(147): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\image.cpp(191): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\image.cpp(244): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\image.cpp(243): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\image.cpp(257): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imageManager.cpp
+  keyManager.cpp
+  minion.cpp
+  minion2.cpp
+  playGround.cpp
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\playground.cpp(18): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\playground.cpp(53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\playground.cpp(58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\playground.cpp(73): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\playground.cpp(119): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\playground.cpp(123): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\playground.cpp(127): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\playground.cpp(130): warning C4477: 'sprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\playground.cpp(130): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\playground.cpp(131): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\playground.cpp(135): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\playground.cpp(139): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  spaceShip.cpp
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\spaceship.cpp(74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  utils.cpp
+  windowAPI.cpp
+c:\users\hy_raptop\onedrive\desktop\github\objectpool\objectpool\windowapi.cpp(70): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  windowAPI.vcxproj -> C:\Users\HY_Raptop\OneDrive\Desktop\GitHub\ObjectPool\ObjectPool\x64\Debug\windowAPI.exe
